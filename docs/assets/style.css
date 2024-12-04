@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(45deg, #254581, #0d192e); /* Fondo inicial */
+    background: linear-gradient(45deg, #476fb9, #050d1c); /* Fondo inicial */
     background-size: 300% 300%; /* Amplía el tamaño para crear el efecto de movimiento */
     animation: waveAnimation 5s ease-in-out infinite; /* Animación suave */
     color: #ffffff;
